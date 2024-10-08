@@ -1,6 +1,6 @@
 # Multi-fingered Robotic Hand Grasping in Cluttered Environments through Hand-object Contact Semantic Mapping
 
-[Project Page](https://sites.google.com/view/ffh-cluttered-grasping) [arXiv](https://arxiv.org/abs/2404.08844v1) [PDF](https://arxiv.org/pdf/2404.08844v1.pdf)
+[Project Page](https://sites.google.com/view/ffh-cluttered-grasping) [arXiv](https://arxiv.org/abs/2404.08844v2) [PDF](hhttps://arxiv.org/pdf/2404.08844v2)
 
 
 
