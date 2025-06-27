@@ -20,7 +20,7 @@
 <p align="center">University of Hamburg, Agile Robots, Technical University of Munich</p>
 <p align="center">
     <a href="https://sites.google.com/view/contact-dexnet" target="_blank">
-        <img src="./images/fig_arnie_gtc.jpeg" alt="EAgent" width="40%" height="40%" border="0" />
+        <img src="./images/fig_arnie_gtc.jpeg" alt="ContactDexNet" width="40%" height="40%" border="0" />
     </a>
     <!-- <a href="https://sites.google.com/view/contact-dexnet" target="_blank">
         <img src="./images/fig_head.png" alt="EAgent" width="40%" height="40%" border="0" />
