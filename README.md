@@ -65,20 +65,10 @@ P.S: In visualization, the model of robotic hand is a simplied version.
 If you find our work helpful, please consider citing it:
 
 ```bash
-@article{zhang2024multi,
-  title={Multi-fingered robotic hand grasping in cluttered environments through hand-object contact semantic mapping},
+@article{zhang2024contactdexnet,
+  title={ContactDexNet: Multi-fingered Robotic Hand Grasping in Cluttered Environments through Hand-object Contact Semantic Mapping},
   author={Zhang, Lei and Bai, Kaixin and Huang, Guowen and Bing, Zhenshan and Chen, Zhaopeng and Knoll, Alois and Zhang, Jianwei},
   journal={arXiv preprint arXiv:2404.08844},
   year={2024}
-}
-
-@misc{zhang2025contactdexnetmultifingeredrobotichand,
-      title={ContactDexNet: Multi-fingered Robotic Hand Grasping in Cluttered Environments through Hand-object Contact Semantic Mapping}, 
-      author={Lei Zhang and Kaixin Bai and Guowen Huang and Zhenshan Bing and Zhaopeng Chen and Alois Knoll and Jianwei Zhang},
-      year={2025},
-      eprint={2404.08844},
-      archivePrefix={arXiv},
-      primaryClass={cs.RO},
-      url={https://arxiv.org/abs/2404.08844}, 
 }
 ```
